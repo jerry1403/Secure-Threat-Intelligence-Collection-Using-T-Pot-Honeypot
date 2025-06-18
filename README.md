@@ -67,11 +67,11 @@ The project demonstrated the value of honeypots as a force multiplier for securi
 
  
 
-Visual Data Highlights 
+Visual Data Highlights :-
 
 I will be attaching a file to this repo as visual. it will contain insights from the T-Pot honeypot deployment, visualized through Kibana dashboards. These highlights provide a snapshot of the most active attackers, their geographic origins, and the services they targeted. 
 
-Conclusion 
+Conclusion :- 
 
 The Secure Threat Intelligence Collection Using T-Pot Honeypot project exemplifies the power of proactive threat intelligence in modern cybersecurity. By leveraging cloud infrastructure, advanced honeypot technology, and robust analytics, the project delivered deep visibility into attacker behaviors, identified high-risk IPs and countries, and generated actionable IOCs to inform security policies and incident response. The integration of secure data transmission and interactive dashboards ensured that threat intelligence was both comprehensive and actionable, supporting ongoing efforts to defend against evolving cyber threats. This approach not only enhanced the organization’s defensive posture but also provided valuable insights for the broader security community. 
 
